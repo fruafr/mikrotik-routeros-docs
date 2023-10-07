@@ -2,18 +2,15 @@
 
 IP options
 
-## Note
-- Not official - May be incomplete.
-- Type /ip and use tab twice for possible completions. 
-
 ## Home menu level
 /ip 
 ## Fast typing shortcut
 /ip
-### Sub-commands
+## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
-|---|---|---|
+|---|---|---|---|
+| [/..](root-level.md) | /.. | go up to root |  |
 | /ip address | /ip ad | Address management |  |         
 | /ip arp | /ip ar | ARP entries management |  |
 | /ip cloud | /ip c |  | Mikrotik Dynamic DNS (DDNS) |
@@ -42,6 +39,12 @@ IP options
 
 ## Parameters
 
-| **Command** | **Shortcut** | **Official Description** | **Note** |
+The following command parameters are accepted:
+
+| **Parameter** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| /ip export | /ip e | Print or save an export script that can be used to restore configuration | |    
+| export | e | Print or save an export script that can be used to restore configuration | |    
+
+## Note
+- Not official - May be incomplete.
+- Type /ip and use tab twice for possible completions. 

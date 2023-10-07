@@ -1,40 +1,44 @@
-# Mikrotik - RouterOS - Top level CLI commands
-Not official - May be incomplete
+# Mikrotik - RouterOS - / - Root level CLI commands
 
 ## Home menu level
+/
+## Fast typing shortcut
 /
 
 ## Sub-menus
 
 | **Command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| /  | / |  | Return to root |
-| /caps-man | /ca | |
-| /certificate | /ce | Certificate management |
-| /console | /cons | |
-| /disk | /di | |
-| /environment | /en | list of all variables |
-| /file | /fil | local router file storage. | Files & File Transfer Protocol (FTP) |
-| /interface | /in |  | Interfaces |
+| [/..](root-level.md) | /.. | go up to root |  |
+| [/](root-level.md)  | / |  |  | Return to root |
+| [/caps-man](capsman.md) | /ca | | Controlled Access Point system Manager (CAPsMAN) |
+| [/certificate](certificate.md) | /ce | Certificate management |  |
+| [/console](console.md) | /cons |  | Console |
+| [/disk](disk.md) | /di |  | Disk |
+| [/environment](environment.md) | /en | list of all variables |  |
+| [/file](file.md) | /fil | local router file storage. | Files & File Transfer Protocol (FTP) |
+| [/interface](interface.md) | /in |  | Interfaces |
 | [/ip](ip.md) | /ip | IP options | IPv4 services |
-| /ipv6 | /ipv |  | IPv6 services |
-| /log | /l | System logs |
-| /mpls | /m |  |
-| /partitions | /part |  | 
-| /port | /po | Serial ports | 
-| /ppp | /pp | Point to Point Protocol |
-| /queue | /que | Bandwidth management |
-| /radius | /rad | Radius client settings |
-| /routing | /ro |  |
-| /snmp | /sn | SNMP settings |
-| /special-login | /sp | Special login users |
-| /system | /sy |  | System operations |
-| /task | /ta | commands related to background task handling |
-| /terminal | /te | commands related to terminal handling |
-| /tool | /too | Diagnostics tools |
-| /user | /us |User management |
+| [/ipv6](ipv6.md) | /ipv |  | IPv6 services |
+| [/log](log.md) | /l | System logs |
+| [/mpls](mpls.md) | /m |  | Multi Protocol Label Switching (MPLS) |
+| [/partitions](partitions.md) | /part |  | Partitions |
+| [/port](port.md) | /po | Serial ports |  |
+| [/ppp](ppp.md) | /pp | Point to Point Protocol |  |
+| /queue | /que | Bandwidth management | |
+| /radius | /rad | Radius client settings |  |
+| /routing | /ro |  |  | 
+| [/snmp](snmp.md) | /sn | SNMP settings |  | 
+| /special-login | /sp | Special login users |  |
+| /system | /sy |  | System operations |  | 
+| /task | /ta | commands related to background task handling |  |
+| /terminal | /te | commands related to terminal handling |  |
+| /tool | /too | Diagnostics tools |  |
+| /user | /us | User management |  |
 
 ## Sub-Commands and Parameters
+
+The following command parameters are accepted:
 
 | **Command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
@@ -81,3 +85,9 @@ Not official - May be incomplete
 | /typeof | /ty | return type of value |  |
 | /undo | /un | Undo previous action |  |
 | /while | /w | executes command while condition is true |  |
+
+For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+
+## Note
+- Not official - May be incomplete.
+- Type / and use tab twice for possible completions. 
