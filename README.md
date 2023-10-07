@@ -3,6 +3,11 @@ Mikrotik Router OS documentation
 
 Contains Mikrotik RouterOS Documentation. Not endorsed by Mikrotik.
 
+## Introduction
+[Mikrotik](https://mikrotik.com/aboutus) is a Latvian company developing routers, switches and ISP systems, etc.
+
+[RouterOS](https://mikrotik.com/software) is the operating system of RouterBoard products. It is [based on Linux kernel](https://help.mikrotik.com/docs/display/ROS/Getting+started). It powers MikroTik hardware devices, but is also available for virtual machines.
+
 ## Manuals
 
 ### Official
