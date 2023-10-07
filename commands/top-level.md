@@ -7,7 +7,8 @@ Not official - May be incomplete
 | /  | / | Return to root |
 | [/export](export.md) | /exp | Export configuration |
 | /file | /fil | Files & File Transfer Protocol (FTP) |
-| /import | /imp | Import configuration |
+| [/import](import.md) | /imp | Import configuration |
 | /interface | /in | Interfaces |
 | /system | /sy | System operations |
 | /tool | /too | Tools |
+| [/ip](ip.md) | IPv4 services |
