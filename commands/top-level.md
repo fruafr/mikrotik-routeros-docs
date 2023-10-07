@@ -1,8 +1,7 @@
 # Mikrotik - RouterOS - Top level CLI commands
 Not official - May be incomplete
 
----
-| command | shortcut | Description |
+| Command | Shortcut | Description |
 | --- | --- |
 | / | / | Return to root |
 | /export | /exp | Export configuration |
