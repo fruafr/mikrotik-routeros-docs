@@ -3,6 +3,7 @@ Not official - May be incomplete
 
 ---
 | command | shortcut | Description |
+| --- | --- |
 | / | / | Return to root |
 | /export | /exp | Export configuration |
 | /file | /fil | Files & File Transfer Protocol (FTP) |
