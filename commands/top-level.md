@@ -5,7 +5,7 @@ Not official - May be incomplete
 | **Command** | **Shortcut** | **Description** |
 |---|---|---|
 | /  | / | Return to root |
-| /export | /exp | Export configuration |
+| [/export](commands/export.md) | /exp | Export configuration |
 | /file | /fil | Files & File Transfer Protocol (FTP) |
 | /import | /imp | Import configuration |
 | /interface | /in | Interfaces |
