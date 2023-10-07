@@ -1,8 +1,8 @@
-# Mikrotik – RouterOS - CLI - Import
+# Mikrotik – RouterOS - CLI - /import - Import Configuration
 
 ## Note
 - Not official - May be incomplete.
-- Type /export and use tab twice for possible completions. 
+- Type /import and use tab twice for possible completions. 
 
 ## Home menu level
 /import

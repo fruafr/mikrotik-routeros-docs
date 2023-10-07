@@ -1,4 +1,6 @@
-# Mikrotik – RouterOS - CLI - Export
+# Mikrotik – RouterOS - CLI - /export - Export configuration
+
+Print or save an export script that can be used to restore configuration
 
 ## Note
 - Not official - May be incomplete.
