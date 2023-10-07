@@ -2,25 +2,53 @@
 
 IP options
 
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/ipv6`
+
 ## Fast typing shortcut
+
 `/ipv`
+
 ## Sub-menus
 
+- [Main](#main)
+- [Firewall and Quality of Service](#firewall-and-quality-of-service): firewall
+- [IPv4 and IPv6 Fundamentals](#ipv4-and-ipv6-fundamentals): address, IPv6 neighbor discovery, pool, route, settings
+- [Network Management](#network-management): DHCP
+
+
+### Main
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
-|---|---|---|--|
+|---|---|---|---|
 | [`/..`](root-level.md) | `/..` | go up to root |  |
-| `/ipv6 address` | `/ipv a` |  |  |
-| `/ipv6 dhcp-client` | `/ipv dhcp-c` | DHCPv6 client settings |  |
-| `/ipv6 dhcp-relay` | `/ipv dhcp-r` | DHCPv6 relay settings |  |
-| `/ipv6 dhcp-server` | `/ipv d` | DHCPv6 server settings |  |
-| `/ipv6 firewall` | `/ipv f`  |  |  |
-| `/ipv6 nd` | `/ipv nd` | Neighbor Discovery |  |
-| `/ipv6 neighbor` | `/ipv ne` | neighbors |  |
-| `/ipv6 pool` | `/ipv po` | IPv6 address pools |  |
-| `/ipv6 route` | `/ipv ro` |  |  |
-| `/ipv6 settings` | `/ipv se` |  |  |
+
+### Firewall and Quality of Service
+| **Sub-command** | **Shortcut** | **Official Description** | **Note** |
+|---|---|---|---|
+| [`/ipv6 firewall`](https://help.mikrotik.com/docs/display/ROS/Firewall+and+Quality+of+Service) | `/ipv f`  |  |  |
+
+### IPv4 and IPv6 Fundamentals
+| **Sub-command** | **Shortcut** | **Official Description** | **Note** |
+|---|---|---|---|
+| [`/ipv6 address`](https://help.mikrotik.com/docs/display/ROS/IP+Addressing) | `/ipv a` |  | IPv6 Addressing |
+| [`/ipv6 nd`](https://help.mikrotik.com/docs/display/ROS/IPv6+Neighbor+Discovery) | `/ipv nd` | Neighbor Discovery |  |
+| [`/ipv6 neighbor`](https://help.mikrotik.com/docs/display/ROS/Neighbor+discovery) | `/ipv ne` | neighbors | Neighbors Discovery |
+| [`/ipv6 route`](https://help.mikrotik.com/docs/display/ROS/IP+Routing) | `/ipv ro` |  | IPv6 Routing |
+| [`/ipv6 pool`](https://help.mikrotik.com/docs/display/ROS/IP+Pools) | `/ipv po` | IPv6 address pools |  |
+| [`/ipv6 settings`](https://help.mikrotik.com/docs/display/ROS/IP+Settings) | `/ipv se` |  | IPv6 Settings |
+
+### Network Management
+| **Sub-command** | **Shortcut** | **Official Description** | **Note** |
+|---|---|---|---|
+| [`/ipv6 dhcp-client`](https://help.mikrotik.com/docs/display/ROS/DHCP#DHCP-DHCPv6Client) | `/ipv dhcp-c` | DHCPv6 client settings |  |
+| [`/ipv6 dhcp-relay`](https://help.mikrotik.com/docs/display/ROS/DHCP) | `/ipv dhcp-r` | DHCPv6 relay settings |  |
+| [`/ipv6 dhcp-server`](https://help.mikrotik.com/docs/display/ROS/DHCP#DHCP-DHCPv6Server) | `/ipv d` | DHCPv6 server settings |  |
 
 ## Parameters
 

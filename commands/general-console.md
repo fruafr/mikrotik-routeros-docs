@@ -2,6 +2,8 @@
 
 Copy pasted from a RouterOS v.7 console output
 
+[Mikrotik RouterOS' documentation for Console](https://help.mikrotik.com/docs/display/ROS/Console)
+
 | **Command** | **Description** |
 |---|---|
 | **F1** | Give the list of available commands |

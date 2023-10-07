@@ -1,10 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/file` - Files & File Transfer Protocol (FTP)
 
-local router file storage.
+Local router file storage.
+
+[Mikrotik RouterOS' Documentation for Files & Backups](https://help.mikrotik.com/docs/pages/viewpage.action?pageId=2555971)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/file`
+
 ## Fast typing shortcut
+
 `/fil`
 
 ## Sub-menus
@@ -29,7 +39,7 @@ The following command parameters are accepted:
 | **remove** | rem |  |  |
 | **set** | s |  |  |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.

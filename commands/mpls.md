@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/mpls` - Multi Protocol Label Switching (MPLS)
 
-[Mikrotik documentation for Multi Protocol Label Switching (MPLS)](https://help.mikrotik.com/docs/pages/viewpage.action?pageId=328082)
+[Mikrotik RouterOS documentation for Multi Protocol Label Switching (MPLS)](https://help.mikrotik.com/docs/pages/viewpage.action?pageId=328082)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/mpls` 
+
 ## Fast typing shortcut
+
 `/m`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

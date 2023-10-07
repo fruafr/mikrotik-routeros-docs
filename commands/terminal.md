@@ -2,10 +2,19 @@
 
 Commands related to terminal handling
 
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/terminal`
+
 ## Fast typing shortcut
+
 `/te`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

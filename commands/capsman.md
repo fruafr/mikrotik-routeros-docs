@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/caps-man` - Controlled Access Point system Manager (CAPsMAN)
 
-[Mikrotik Documentation for CAPsMAN](https://help.mikrotik.com/docs/display/ROS/CAPsMAN) allows applying wireless settings to multiple MikroTik AP devices from a central configuration interface.
+[Mikrotik RouterOS' documentation for CAPsMAN](https://help.mikrotik.com/docs/display/ROS/CAPsMAN) allows applying wireless settings to multiple MikroTik AP devices from a central configuration interface.
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/caps-man`
+
 ## Fast typing shortcut
+
 `/ca`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

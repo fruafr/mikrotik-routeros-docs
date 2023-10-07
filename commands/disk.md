@@ -1,8 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/disk` - Disk
 
+[Mikrotik RouterOS' documentation for Disks](https://help.mikrotik.com/docs/display/ROS/Disks)
+
+Disk capabilities can be expended with the [ROSE-storage package](https://help.mikrotik.com/docs/display/ROS/ROSE-storage).
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/disk`
+
 ## Fast typing shortcut
+
 `/di`
 
 ## Sub-menus
@@ -39,7 +51,7 @@ The following command parameters are accepted:
 | **set** | se |  Change item properties |  |
 | **unset** | u |   |  |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.

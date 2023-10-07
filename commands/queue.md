@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/queue` - Bandwidth management
 
-[Mikrotik documentation for Queues](https://help.mikrotik.com/docs/display/ROS/Queues)
+[Mikrotik RouterOS documentation for Queues](https://help.mikrotik.com/docs/display/ROS/Queues)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/queue`
+
 ## Fast typing shortcut
+
 `/que`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -25,7 +34,7 @@ The following command parameters are accepted:
 
 | **Parameter** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| export | e | Print or save an export script that can be used to restore configuration |  |
+| **export** | e | Print or save an export script that can be used to restore configuration |  |
 
 ## Note
 - Not official - May be incomplete.

@@ -1,9 +1,22 @@
 # Mikrotik – RouterOS - CLI - `/snmp` - SNMP settings
 
+Simple Network Management Protocol (SNMP) is an Internet-standard protocol for managing devices on IP networks. 
+
+[Mikrotik RouterOS' documentation for SNMP](https://help.mikrotik.com/docs/display/ROS/SNMP)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/snmp` 
+
 ## Fast typing shortcut
+
 `/sn`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -26,7 +39,7 @@ The following command parameters are accepted:
 | **send-trap** | send |  |  |  
 | **set** | set | Change item properties |  | 
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.

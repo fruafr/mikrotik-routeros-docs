@@ -1,9 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/certificate` - Certificate management
 
+[Mikrotik RouterOS' documentation for 'Certificates](https://help.mikrotik.com/docs/display/ROS/Certificates)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/certificate`
+
 ## Fast typing shortcut
+
 `/ce`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

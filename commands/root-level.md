@@ -1,10 +1,19 @@
 # Mikrotik - RouterOS - `/` - Root level CLI commands
 
-[General console usage](general-console.md)
+[Mikrotik RouterOS General console usage](general-console.md)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+- [New features](#new-features)
 
 ## Home menu level
+
 `/`
+
 ## Fast typing shortcut
+
 `/`
 
 ## Sub-menus
@@ -22,6 +31,7 @@
 | [`/interface`](interface.md) | `/in` |  | Interfaces |
 | [`/ip`](ip.md) | `/ip` | IP options | IPv4 services |
 | [`/ipv6`](ipv6.md) | `/ipv` |  | IPv6 services |
+| [`/lcd`](https://help.mikrotik.com/docs/display/ROS/LCD+Touchscreen) | `/lcd` | | LCD Touchscreen. *Availability varies based on model* |
 | [`/log`](log.md) | `/l` | System logs |
 | [`/mpls`](mpls.md) | `/m` |  | Multi Protocol Label Switching (MPLS) |
 | [`/partitions`](partitions.md) | `/part` |  | Partitions |
@@ -90,7 +100,18 @@ The following command parameters are accepted:
 | **undo** | un | Undo previous action |  |
 | **while** | w | executes command while condition is true |  |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
+
+## New features
+
+Invoke with : `/[command]`
+
+The following command parameters are accepted:
+
+| **Command** | **Shortcut** | **Official Description** | **Note** |
+|---|---|---|---|
+| [`/container`](https://help.mikrotik.com/docs/display/ROS/Container) | [TBD] | | A container is MikroTik's implementation of Linux containers, allowing users to run containerized environments within RouterOS. >v7.4beta4 |
+| [`/iot`](https://help.mikrotik.com/docs/display/ROS/Internet+of+Things) | `/iot` |  | Internet of Things. *IoT package is available with RouterOS version 6.48.3. You can get it from our download page - under "Extra packages".* It supports [Bluetooth](https://help.mikrotik.com/docs/display/ROS/Bluetooth, [GPIO](https://help.mikrotik.com/docs/display/ROS/GPIO), [Lora](https://help.mikrotik.com/docs/display/ROS/Lora) and [MQTT](https://help.mikrotik.com/docs/display/ROS/MQTT) |
 
 ## Note
 - Not official - May be incomplete.

@@ -1,8 +1,18 @@
 # Mikrotik – RouterOS - CLI - `/console` - Console
 
+[Mikrotik RouterOS' documentation for the Command Line Interface](https://help.mikrotik.com/docs/display/ROS/Command+Line+Interface)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/console`
+
 ## Fast typing shortcut
+
 `/cons`
 
 ## Sub-menus

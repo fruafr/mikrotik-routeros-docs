@@ -2,12 +2,21 @@
 
 Print or save an export script that can be used to restore configuration
 
-[Mikrotik documentation of Configuration Management](https://help.mikrotik.com/docs/display/ROS/Configuration+Management)
+[Mikrotik RouterOS' documentation for Configuration Management](https://help.mikrotik.com/docs/display/ROS/Configuration+Management)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/export`
+
 ## Fast typing shortcut
+
 `/exp`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

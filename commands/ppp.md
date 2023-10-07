@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/ppp` - Point to Point Protocol
 
-[Mikrotik documentation for PPP](https://help.mikrotik.com/docs/display/ROS/PPP)
+[Mikrotik RouterOS documentation for PPP](https://help.mikrotik.com/docs/display/ROS/PPP)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/ppp`
+
 ## Fast typing shortcut
+
 `/pp`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |

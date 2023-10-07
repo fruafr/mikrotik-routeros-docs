@@ -1,9 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/user` - User Management
 
+[Mikrotik RouterOS' documentation for Special User](https://help.mikrotik.com/docs/display/ROS/User)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
+
 ## Home menu level
+
 `/user`
+
 ## Fast typing shortcut
+
 `/us`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -37,7 +48,7 @@ The following command parameters are accepted:
 | **reset** | res |  | |
 | **set** | s | Change item properties | |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.

@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/partitions` - Partitions
 
-[Mikrotik documentation for Partitions](https://help.mikrotik.com/docs/display/ROS/Partitions)
+[Mikrotik RouterOS documentation for Partitions](https://help.mikrotik.com/docs/display/ROS/Partitions)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/partitions`
+
 ## Fast typing shortcut
+
 `/part`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -33,7 +42,7 @@ The following command parameters are accepted:
 | **save-config-to** | sa |   |   | 
 | **set** | se | Change item properties |   |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.

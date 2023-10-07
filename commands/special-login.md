@@ -1,11 +1,20 @@
 # Mikrotik – RouterOS - CLI - `/special-login` - Special Login users
 
-[Mikrotik documentation for Special Login](https://help.mikrotik.com/docs/display/ROS/Serial+Console)
+[Mikrotik RouterOS' documentation for Special Login](https://help.mikrotik.com/docs/display/ROS/Serial+Console)
+
+- [Home menu level](#home-menu-level)
+- [Fast typing shortcut](#fast-typing-shortcut)
+- [Sub-menus](#sub-menus)
+- [Parameters](#parameters)
 
 ## Home menu level
+
 `/special-login`
+
 ## Fast typing shortcut
+
 `/sp`
+
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -33,7 +42,7 @@ The following command parameters are accepted:
 | **reset** | res |  |  |
 | **set** | s | Change item properties |  |
 
-For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
+- For details on general commands: [General commands](general-commands.md)
 
 ## Note
 - Not official - May be incomplete.
