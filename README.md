@@ -17,5 +17,6 @@ Contains Mikrotik RouterOS Documentation. Not endorsed by Mikrotik.
 ### Mikrotik User Meetings (MUM)
 - [Mikrotik User Meetings Website](https://mum.mikrotik.com/)
 - [MUM Presentation archive](https://mum.mikrotik.com/archive)
+- [Most underused MikroTik hardware and software features](mum/presentation_5143_1523360368.pdf) 
 
-
+### List of commands
