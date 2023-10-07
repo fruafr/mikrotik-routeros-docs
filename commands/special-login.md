@@ -1,32 +1,35 @@
-# Mikrotik – RouterOS - CLI - `/port` - Serial Ports
+# Mikrotik – RouterOS - CLI - `/special-login` - Special Login users
 
-[Mikrotik documentation for Ports](https://help.mikrotik.com/docs/display/ROS/Ports)
+[Mikrotik documentation for Special Login](https://help.mikrotik.com/docs/display/ROS/Serial+Console)
 
 ## Home menu level
-`/port`
+`/special-login`
 ## Fast typing shortcut
-`/po`
+`/sp`
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
 | [`/..`](root-level.md) | `/..` | go up to root |  |
-| `/port remote-access` | `/po remot` |  |  | 
+
 
 ## Parameters
 
-Invoke with : `/port [parameter]` or `/po [parameter]`
+Invoke with : `/special-login [parameter]` or `/sp [parameter]`
 
 The following command parameters are accepted:
 
 | **Parameter** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| **edit** | ed |  | 
+| **add** | a | Create a new item | |
+| **disable** | d | Disable items | |
+| **edit** | ed |  | |
+| **enable** | en | Enable items
 | **export** | ex | Print or save an export script that can be used to restore configuration |  |
-| **find** | f  | Find items by value |  |
+| **find** | f | Find items by value |  |
 | **get** | g | Gets value of item's property |  |
-| **print** | p |  |  |
-| **remove** | rem | Remove item |  |
+| **print** | p | Print values of item properties |  |
+| **remove** | rem | Remove item | |
 | **reset** | res |  |  |
 | **set** | s | Change item properties |  |
 
@@ -34,7 +37,7 @@ For details on general commands: [General commands](https://help.mikrotik.com/do
 
 ## Note
 - Not official - May be incomplete.
-- Type `/port` and use `[Tab]` twice for possible completions. 
+- Type `/special-login` and use `[Tab]` twice for possible completions. 
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia

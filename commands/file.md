@@ -1,33 +1,39 @@
-# Mikrotik – RouterOS - CLI - /file - Files & File Transfer Protocol (FTP)
+# Mikrotik – RouterOS - CLI - `/file` - Files & File Transfer Protocol (FTP)
 
 local router file storage.
 
 ## Home menu level
-/file 
+`/file`
 ## Fast typing shortcut
-/fil
+`/fil`
 
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [/..](root-level.md) | /.. | go up to root |  |
+| [`/..`](root-level.md) | `/..` | go up to root |  |
 
 ## Parameters
+
+Invoke with : `/file [parameter]` or `/fil [parameter]`
 
 The following command parameters are accepted:
 
 | **Parameter** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| add |  |  |  |
-| edit |  |  |  |
-| find |  |  |  |
-| print |  |  |  |
-| remove |  |  |  |
-| set |  |  |  |
+| **add** | a |  |  |
+| **edit** | e |  |  |
+| **find** | f |  |  |
+| **get** | g |  |  |
+| **print** | p |  |  |
+| **remove** | rem |  |  |
+| **set** | s |  |  |
 
 For details on general commands: [General commands](https://help.mikrotik.com/docs/display/ROS/Console)
 
 ## Note
 - Not official - May be incomplete.
-- Type /file and use tab twice for possible completions. 
+- Type `/file` and use `[Tab]` twice for possible completions. 
+
+## Copyright
+- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia

@@ -1,10 +1,11 @@
-# Mikrotik – RouterOS - CLI - `/console` - Console
+# Mikrotik – RouterOS - CLI - `/terminal` - Terminal
+
+Commands related to terminal handling
 
 ## Home menu level
-`/console`
+`/terminal`
 ## Fast typing shortcut
-`/cons`
-
+`/te`
 ## Sub-menus
 
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -13,18 +14,20 @@
 
 ## Parameters
 
-Invoke with : `/console [parameter]` or `/cons [parameter]`
+Invoke with : `/task [parameter]` or `/ta [parameter]`
 
 The following command parameters are accepted:
 
 | **Parameter** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| **clear-history** | c | clear command history for all users |  |
-| **inspect** | i | inspect console hierarchy and parser output |  | 
+| **cuu** | c | move cursor up | |
+| **el** | e | erase line | |
+| **inkey** | i | read key | |
+| **style** | s | set output text style | |
 
 ## Note
 - Not official - May be incomplete.
-- Type `/console` and use `[Tab]' twice for possible completions. 
+- Type `/terminal` and use `[Tab]` twice for possible completions. 
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
