@@ -1,57 +1,31 @@
 # mikrotik-routeros-docs
 Mikrotik RouterOS documentation
 
-Contains documentation for Mikrotik RouterOS. Not endorsed by Mikrotik.
+Contains documentation about Mikrotik RouterOS.
 
-## Introduction
-[SIA Mikrotīkls](https://mikrotik.com/aboutus) is a Latvian company developing routers, switches and ISP systems, etc under the brand Mikrotik.
-
-[RouterOS](https://mikrotik.com/software) is the operating system of RouterBoard products. It is [based on the Linux kernel](https://help.mikrotik.com/docs/display/ROS/Getting+started). It powers MikroTik hardware devices. It also is available for virtual machines.
-
-Yet, the Mikrotik RouterOS software on top of the Linux kernel is proprietary. It is a [closed system](packages.md). It requires a [license key](https://help.mikrotik.com/docs/display/ROS/RouterOS+license+keys) (a free demo license key is available). Some [modified kernel source code](#routeros-source-code) has been released.
-
-## A side note on SwOS
-
-Some switches/routers are sold with a RouterOS/SwOS dual-boot. According to Mikrotik, [SwOS](https://help.mikrotik.com/docs/display/SWOS/SwOS) "*is an operating system designed specifically for administration of MikroTik switch products. SwOS is configurable from your web browser. It gives you all the basic functionality for a managed switch, plus more: allows to manage port-to-port forwarding, broadcast storm control, apply MAC filter, configure VLANs, mirror traffic, apply bandwidth limitation and even adjust some MAC and IP header fields"*.
-
-## Manuals
-
-### Official
-- [Current Mikrotik RouterOS Documentation](https://help.mikrotik.com/docs/)
-- [Mikrotik RouterOS wiki (before December 2021)](https://wiki.mikrotik.com/wiki/Main_Page)
-
-### Mikrotik User Meetings (MUM)
-- [Mikrotik User Meetings Website](https://mum.mikrotik.com/)
-- [MUM Presentation archive](https://mum.mikrotik.com/archive)
-- [Most underused MikroTik hardware and software features](mum/presentation_5143_1523360368.pdf) : Helps you choose the suitable MikroTik hardware and software features
-
-## List of commands
-
-A list of commands has been compiled from RouterOS 7 CLI (one level deep from root) and online documentation:
-
-- [General console usage - Basic navigation](/commands/general-console.md)
-- [Root Level commands- Base levels](/commands/root-level.md)
-- [General commands](/commands/general-commands.md)
-- [Search a specific command in Mikrotik documentation with Google Search - type your command before site](https://www.google.com/search?q=site%3Ahelp.mikrotik.com)
-
-### Note:
-- Actual capabilities depend on your specific hardware model and license limitations.
-- **Fast typing shortcuts *should not* be used in scripts as they often break due to CLI changes.**
-
-### Packages
+## Index
+- [Introduction](introduction-to-mikrotik-routeros.md) 
+        - [Mikrotik](introduction-to-mikrotik-routeros.md#mikrotik)
+        - [RouterOS : Not an open source router operating system](introduction-to-mikrotik-routeros.md#routeros--not-an-open-source-router-operating-system)
+        - [A side note about SwOS](introduction-to-mikrotik-routeros.md#a-side-note-about-swos)
+- [RouterOS Official Material](routeros-official-material.md)
+        - [Online Documentation](routeros-official-material.md#online-documentation)
+        - [Mikrotik User Meetings (MUM)](routeros-official-material.md#mikrotik-user-meetings-mum)
+- [How to Manage RouterOS](how-to-manage-routeros.md)
+        - [First time configuration](how-to-manage-routeros.md#first-time-configuration)
+        - [Management methods - How to reach my Mikrotik Router ?](how-to-manage-routeros.md#management-methods)
+        - [Command Line Interface (CLI)](cli.md)
+        - [Rest API](rest-api.md)
+        - [Application Programmable Interface (API)](api.md)
 - [Note on packages - List of additional packages](packages.md)
+- [RouterOS Source Code](routeros-source-code.md)
 
-## Older documentation
-- [Wiki documentation (before December 2021 - RouterOS 2.9, 3.0, 4.0, 5.0)](https://wiki.mikrotik.com/wiki/Main_Page)
-- [RouterOS Console Cheat Sheet - 2013](older/routeros-cheat-sheet-v1.1.pdf)
-- [RouterOS 3.0 Reference manual PDF - 2009](older/ros_3_0_reference_manual.pdf)
+## Note
+- Not endorsed by Mikrotik.
+- Main author is [David HEURTEVENT](https://www.github.com/dheurtev)
 
-## RouterOS Source Code 
-- [GPL sources from Mikrotik. Based on RouterOS 6.41 RC38 obtained from Mikrotik and published by a third party](https://github.com/robimarko/routeros-GPL)
-- RouterOS Linux kernel 3.3.5 patch obtained from Mikrotik and published by third parties:
-        - [github.com/wxarcher](https://github.com/wsxarcher/routeros-linux-patch/tree/master)
-        - [github.com/Ciusss89](https://github.com/Ciusss89/routeros-linux-patch)
-- [RouterOS License terms, including a method to obtain the source code by email, subject to open source obligations](https://mikrotik.com/downloadterms.html)
+## License
+- Unless copyrighted by other owners, the material contained in this repository is licensed under the [Creative Commons Attribution](https://fr.wikipedia.org/wiki/Creative_Commons_Attribution): [CC-BY](license.md).
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)
