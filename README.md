@@ -15,12 +15,12 @@ Contains documentation about Mikrotik RouterOS.
 
 - [How to Manage RouterOS](how-to-manage-routeros.md)
   - [First time configuration](how-to-manage-routeros.md#first-time-configuration)
-  - [Management methods - How to reach my Mikrotik Router ?](how-to-manage-routeros.md#management-methods)
+  - [Management methods - How to reach my Mikrotik Router ?](how-to-manage-routeros.md#management-methods---how-to-reach-my-mikrotik-router-)
   - [Command Line Interface (CLI)](cli.md)
   - [Rest API](rest-api.md)
   - [Application Programmable Interface (API)](api.md)
 
-- [Note on packages - List of additional packages](packages.md)
+- [Packages - List of additional packages](packages.md)
 
 - [RouterOS Source Code](routeros-source-code.md)
 

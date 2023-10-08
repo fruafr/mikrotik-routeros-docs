@@ -78,7 +78,7 @@
 | [`/interface gre`](https://help.mikrotik.com/docs/display/ROS/GRE) | `/in gre` |  | GRE |
 | [`/interface gre6`](https://help.mikrotik.com/docs/display/ROS/EoIP) | `/in g` |  |  |
 | [`/interface ipip`](https://help.mikrotik.com/docs/display/ROS/IPIP) | `/in ipip` | IP over IP tunnel interfaces |  |
-| [``/interface ipipv6`](https://help.mikrotik.com/docs/display/ROS/IPIP) | `/in ipipv` |  | IP over IP tunnel interfaces IPv6 |
+| [`/interface ipipv6`](https://help.mikrotik.com/docs/display/ROS/IPIP) | `/in ipipv` |  | IP over IP tunnel interfaces IPv6 |
 | [`/interface l2tp-client`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l2tp-c` | Layer Two Tunneling Protocol's client |  |
 | [`/interface l2tp-ether`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l2tp-e` | Layer Two Tunneling Protocol version 3 (L2TPv3) ethernet pseudowires |  |
 | [`/interface l2tp-server`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l` | Layer Two Tunneling Protocol's server |  |
