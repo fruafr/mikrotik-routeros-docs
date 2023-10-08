@@ -12,12 +12,13 @@ Yet, the Mikrotik RouterOS software on top of the kernel is proprietary requirin
 
 ## A side note on SwOS
 
-Some routers are sold with a dual boot between RouterOS and SwOS. [SwOS](https://help.mikrotik.com/docs/display/SWOS/SwOS) "*is an operating system designed specifically for administration of MikroTik switch products. SwOS is configurable from your web browser. It gives you all the basic functionality for a managed switch, plus more: allows to manage port-to-port forwarding, broadcast storm control, apply MAC filter, configure VLANs, mirror traffic, apply bandwidth limitation and even adjust some MAC and IP header fields"*.
+Some switches/routers are sold with a RouterOS/SwOS dual-boot. According to Mikrotik, [SwOS](https://help.mikrotik.com/docs/display/SWOS/SwOS) "*is an operating system designed specifically for administration of MikroTik switch products. SwOS is configurable from your web browser. It gives you all the basic functionality for a managed switch, plus more: allows to manage port-to-port forwarding, broadcast storm control, apply MAC filter, configure VLANs, mirror traffic, apply bandwidth limitation and even adjust some MAC and IP header fields"*.
 
 ## Manuals
 
 ### Official
 - [Current Mikrotik RouterOS Documentation](https://help.mikrotik.com/docs/)
+- [Mikrotik RouterOS wiki (before December 2021)](https://wiki.mikrotik.com/wiki/Main_Page)
 
 ### Mikrotik User Meetings (MUM)
 - [Mikrotik User Meetings Website](https://mum.mikrotik.com/)
@@ -43,7 +44,9 @@ The actual capabilities depend on your specific hardware model and license limit
 - [RouterOS License terms, including a method to obtain the source code by email, subject to open source obligations](https://mikrotik.com/downloadterms.html)
 
 ## Old documentation
-- [Old reference manual PDF (RouterOS 3.0) - Pre-2011](manual/ros_3_0_reference_manual.pdf)
+- [Old reference manual PDF (RouterOS 3.0) - 2009](manual/ros_3_0_reference_manual.pdf)
+- [Old wiki documentation (before December 2021 - RouterOS 2.9, 3.0, 4.0, 5.0)](https://wiki.mikrotik.com/wiki/Main_Page)
+- [Old cheatsheet (2013)]()
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia

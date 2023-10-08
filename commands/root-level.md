@@ -7,6 +7,7 @@
 - [Sub-menus](#sub-menus)
 - [Parameters](#parameters)
 - [New features](#new-features)
+- [Deprecated commands](#deprecated-commands)
 
 ## Home menu level
 
@@ -112,6 +113,16 @@ The following command parameters are accepted:
 |---|---|---|---|
 | [`/container`](https://help.mikrotik.com/docs/display/ROS/Container) | [TBD] | | A container is MikroTik's implementation of Linux containers, allowing users to run containerized environments within RouterOS. >v7.4beta4 |
 | [`/iot`](https://help.mikrotik.com/docs/display/ROS/Internet+of+Things) | `/iot` |  | Internet of Things. *IoT package is available with RouterOS version 6.48.3. You can get it from Mikrotik's [download page](https://mikrotik.com/download) - under "Extra packages".* It supports [Bluetooth](https://help.mikrotik.com/docs/display/ROS/Bluetooth, [GPIO](https://help.mikrotik.com/docs/display/ROS/GPIO), [Lora](https://help.mikrotik.com/docs/display/ROS/Lora) and [MQTT](https://help.mikrotik.com/docs/display/ROS/MQTT) |
+
+## Deprecated commands
+
+The following commands are deprecated:
+
+| **Command** | **Shortcut** | **Official Description** | **Note** |
+|---|---|---|---|
+| [`/metarouter`](https://wiki.mikrotik.com/wiki/Manual:Metarouter) | | | Virtual Router. RouterOS >3.21 and RouterOS 4.0 beta1 |
+| `/driver`| | | |
+| `/store` | | | Store manages storage devices used by RouterOS various facilities. Disk management in v6.20 and later is done by [Disk](disk.md) menu. |
 
 ## Note
 - Not official - May be incomplete.
