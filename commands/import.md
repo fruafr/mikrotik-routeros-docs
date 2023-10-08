@@ -35,7 +35,7 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/import` and use `[Tab]` twice for possible completions. 
+- Type `/import` and press `[Tab]` for possible completions. 
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia

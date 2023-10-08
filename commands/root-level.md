@@ -4,8 +4,8 @@
 
 - [Home menu level](#home-menu-level)
 - [Fast typing shortcut](#fast-typing-shortcut)
-- [Sub-menus](#sub-menus)
-- [Parameters](#parameters)
+- [Base Levels](#base-levels)
+- [Sub-commands and Parameters](#parameters)
 - [New features](#new-features)
 - [Deprecated commands](#deprecated-commands)
 
@@ -17,7 +17,7 @@
 
 `/`
 
-## Sub-menus
+## Base Levels
 
 | **Command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
@@ -126,7 +126,7 @@ The following commands are deprecated:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/` and use `[Tab]` twice for possible completions. 
+- Type `/` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)

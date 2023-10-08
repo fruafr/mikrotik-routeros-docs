@@ -46,7 +46,7 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/special-login` and use `[Tab]` twice for possible completions. 
+- Type `/special-login` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)

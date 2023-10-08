@@ -54,7 +54,7 @@ IP options
 ### Firewall and Quality of Service
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/ip firewall`](https://help.mikrotik.com/docs/display/ROS/Basic+Concepts) | `/ip fi` | Firewall management |  |
+| [`/ip firewall`](sub/ip.firewall.md) | `/ip fi` | Firewall management |  |
 | [`/ip kid-control`](https://help.mikrotik.com/docs/display/ROS/Kid+Control) | `/ip k` | Kid control settings |  |
 | [`/ip packing`](https://help.mikrotik.com/docs/display/ROS/IP+packing) | `/ip pa` | Packet packing settings |  |
 | [`/ip upnp`](https://help.mikrotik.com/docs/display/ROS/UPnP) | `/ip u` | Universal Plug and Play |  |
@@ -98,7 +98,7 @@ IP options
 ### Virtual Private Networks
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/ip ipsec`](https://help.mikrotik.com/docs/display/ROS/IPsec) | `/ip i` | IP security |  |
+| [`/ip ipsec`](sub/ip.ipsec.md) | `/ip i` | IP security |  |
 
 ### Other
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -118,7 +118,7 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/ip` and use `[Tab]` twice for possible completions. 
+- Type `/ip` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)

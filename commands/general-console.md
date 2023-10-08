@@ -1,6 +1,6 @@
-# Mikrotik – RouterOS - CLI - General Console Usage
+# Mikrotik – RouterOS - CLI - General Console Usage - Basic Navigation
 
-Copy pasted from a RouterOS v.7 console output
+The following has been copy pasted from a RouterOS v.7 console output
 
 [Mikrotik RouterOS' documentation for Console](https://help.mikrotik.com/docs/display/ROS/Console)
 
@@ -31,5 +31,4 @@ Copy pasted from a RouterOS v.7 console output
 - On some older versions `Ctrl+V` could Command auto-complete instead of [Tab]
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
-
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)

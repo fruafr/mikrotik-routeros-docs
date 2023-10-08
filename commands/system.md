@@ -119,7 +119,7 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/system` and use `[Tab]` twice for possible completions. 
+- Type `/system` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)

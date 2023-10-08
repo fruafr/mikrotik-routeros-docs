@@ -31,7 +31,7 @@ IP options
 ### Firewall and Quality of Service
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/ipv6 firewall`](https://help.mikrotik.com/docs/display/ROS/Firewall+and+Quality+of+Service) | `/ipv f`  |  |  |
+| [`/ipv6 firewall`](sub/ip.firewall.md) | `/ipv f`  |  | IPv6 Firewall Management |
 
 ### IPv4 and IPv6 Fundamentals
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
@@ -62,7 +62,8 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/ipv6` and use `[Tab]` twice for possible completions. 
+- Type `/ipv6` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)
+

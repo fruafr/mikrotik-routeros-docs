@@ -30,7 +30,7 @@
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
 | [`/..`](root-level.md) | `/..` | go up to root |  |
-| [`/interface list`](https://help.mikrotik.com/docs/display/ROS/Interface+Lists) | `/in list` |  |  |
+| [`/interface list`](https://help.mikrotik.com/docs/display/ROS/Interface+Lists) | `/in li` |  |  |
 | [`/interface detect-internet`](https://help.mikrotik.com/docs/display/ROS/Detect+Internet) | `/in de` |  | Diagnostic tool that categorizes monitored interfaces |
 
 ### Authentication, Authorization, Accounting
@@ -41,9 +41,9 @@
 ### Bridging and Switching
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/interface bridge`](https://help.mikrotik.com/docs/display/ROS/Bridging+and+Switching) | `/in b` | Bridge interfaces |  |
+| [`/interface bridge`](sub/interface.bridge.md) | `/in b` | Bridge interfaces |  |
 | [`/interface macsec`](https://help.mikrotik.com/docs/display/ROS/MACsec) | `/in ma` |  | MACsec (Media Access Control Security) protocol |
-| [`/interface vlan`](https://help.mikrotik.com/docs/display/ROS/VLAN) | `/in vl` | Virtual LAN interfaces |  |
+| [`/interface vlan`](sub/interface.vlan.md) | `/in vl` | Virtual LAN interfaces |  |
 | [`/interface vxlan`](https://help.mikrotik.com/docs/display/ROS/VXLAN) | `/in v` |  | Virtual eXtensible Local Area Network (VXLAN) |
 
 ### Extended features
@@ -82,26 +82,26 @@
 | [`/interface l2tp-client`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l2tp-c` | Layer Two Tunneling Protocol's client |  |
 | [`/interface l2tp-ether`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l2tp-e` | Layer Two Tunneling Protocol version 3 (L2TPv3) ethernet pseudowires |  |
 | [`/interface l2tp-server`](https://help.mikrotik.com/docs/display/ROS/L2TP) | `/in l` | Layer Two Tunneling Protocol's server |  |
-| [`/interface ovpn-client`](https://help.mikrotik.com/docs/display/ROS/OpenVPN) | `/in ovpn-c` |  | OpenVPN Client |
-| [`/interface ovpn-server`](https://help.mikrotik.com/docs/display/ROS/OpenVPN) | `/in ovpn-s` |  | OpenVPN Server |
+| [`/interface ovpn-client`](sub/interface.ovpn-client.md) | `/in ovpn-c` |  | OpenVPN Client |
+| [`/interface ovpn-server`](sub/interface.ovpn-server.md) | `/in ovpn-s` |  | OpenVPN Server |
 | [`/interface pppoe-client`](https://help.mikrotik.com/docs/display/ROS/PPPoE) | `/in pppoe-c` | PPPoE client interfaces |  |
 | [`/interface pppoe-server`](https://help.mikrotik.com/docs/display/ROS/PPPoE) | `/in pppoe-s` | PPPoE server |  |
 | [`/interface pptp-client`](https://help.mikrotik.com/docs/display/ROS/PPTP) | `/in pptp-c` | PPTP client |  |
 | [`/interface pptp-server`](https://help.mikrotik.com/docs/display/ROS/PPTP) | `/in pptp-server` | PPTP server |  |
 | [`/interface sstp-client`](https://help.mikrotik.com/docs/display/ROS/SSTP) | `/in sstp-client` |  | SSTP client |
 | [`/interface sstp-server`](https://help.mikrotik.com/docs/display/ROS/SSTP) | `/in sstp-server` |  | SSTP server |
-| [`/interface wireguard`](https://help.mikrotik.com/docs/display/ROS/WireGuard) | `/in wireg` |  | Wireguard VPN |
+| [`/interface wireguard`](sub/interface.wireguard.md) | `/in wireg` |  | Wireguard VPN |
 
 ### Wired Connections
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/interface ethernet`](https://help.mikrotik.com/docs/display/ROS/Ethernet) | `/in et` | Ethernet interfaces |  |
+| [`/interface ethernet`](sub/interface.ethernet.md) | `/in et` | Ethernet interfaces |  |
 | [`/interface pwr-line`](https://help.mikrotik.com/docs/display/ROS/PWR+Line) | `/in pwr`| | PWR-Line |
 
 ### Wireless
 | **Sub-command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/interface wireless`](https://help.mikrotik.com/docs/display/ROS/Wireless+Interface) | `/in wirel` | Wireless interface |  |
+| [`/interface wireless`](sub/interface.wireless.md) | `/in wirel` | Wireless interface |  |
 | [`/interface mesh`](https://help.mikrotik.com/docs/pages/viewpage.action?pageId=8978441) | `/in me` |  | HWMP+ is a **MikroTik specific** layer-2 routing protocol for wireless mesh networks. It is based on Hybrid Wireless Mesh Protocol (HWMP) from IEEE 802.11s draft standard |
 
 ## Parameters
@@ -130,7 +130,8 @@ The following command parameters are accepted:
 
 ## Note
 - Not official - May be incomplete.
-- Type `/interface` and use `[Tab]` twice for possible completions. 
+- Type `/interface` and press `[Tab]` for possible completions. 
 
 ## Copyright
-- Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia
+- Mikrotik, Routerboard and RouterOS are trademarks of [SIA Mikrotīkls, Latvia](https://www.mikrotik.com)
+
