@@ -90,7 +90,12 @@ Shows all information that's accessible from a particular command level. Thus, /
     - `proplist` - 
     - `show-ids` - 
     - `where` - show only items that match specified criteria. The syntax of where the property is similar to the find command.
-    - `without-paging` - prints the output without stopping after each screenful. |
+    - `without-paging` - prints the output without stopping after each screenful. 
+
+- **Examples** : 
+    - Default print : `/[command] print` or `/[command] print`
+    - Print with property=value output form: `/[command] print detail` or `/[command] print d`
+    - Print the output with detail in one go: `/[command] print detail `without-paging` or `/[command] print d wi`|
 
 ## **remove** :
 
