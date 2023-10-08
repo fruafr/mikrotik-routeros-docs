@@ -43,10 +43,10 @@ The actual capabilities depend on your specific hardware model and license limit
         - [github.com/Ciusss89](https://github.com/Ciusss89/routeros-linux-patch)
 - [RouterOS License terms, including a method to obtain the source code by email, subject to open source obligations](https://mikrotik.com/downloadterms.html)
 
-## Old documentation
-- [Old reference manual PDF (RouterOS 3.0) - 2009](manual/ros_3_0_reference_manual.pdf)
-- [Old wiki documentation (before December 2021 - RouterOS 2.9, 3.0, 4.0, 5.0)](https://wiki.mikrotik.com/wiki/Main_Page)
-- [Old cheatsheet (2013)]()
+## Older documentation
+- [Wiki documentation (before December 2021 - RouterOS 2.9, 3.0, 4.0, 5.0)](https://wiki.mikrotik.com/wiki/Main_Page)
+- [RouterOS Console Cheat Sheet - 2013](older/routeros-cheat-sheet-v1.1.pdf)
+- [RouterOS 3.0 Reference manual PDF - 2009](older/ros_3_0_reference_manual.pdf)
 
 ## Copyright
 - Mikrotik, Routerboard and RouterOS are trademarks of SIA Mikrotīkls, Latvia

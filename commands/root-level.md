@@ -120,7 +120,7 @@ The following commands are deprecated:
 
 | **Command** | **Shortcut** | **Official Description** | **Note** |
 |---|---|---|---|
-| [`/metarouter`](https://wiki.mikrotik.com/wiki/Manual:Metarouter) | | | Virtual Router. RouterOS >3.21 and RouterOS 4.0 beta1 |
+| [`/metarouter`](https://wiki.mikrotik.com/wiki/Manual:Metarouter) | | | Virtual Router. Introduced by RouterOS >3.21 and RouterOS 4.0 beta1. |
 | `/driver`| | | |
 | `/store` | | | Store manages storage devices used by RouterOS various facilities. Disk management in v6.20 and later is done by [Disk](disk.md) menu. |
 
