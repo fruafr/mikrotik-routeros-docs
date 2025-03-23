@@ -22,6 +22,8 @@ Contains documentation about Mikrotik RouterOS.
 
 - [Packages - List of additional packages](packages.md)
 
+- [RouterOS Scripts](scripts.md)
+
 - [RouterOS Source Code](routeros-source-code.md)
 
 ## Note
